@@ -1,2 +1,0 @@
-# bigoceancdn
-cdn
